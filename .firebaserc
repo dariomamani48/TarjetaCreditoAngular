@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "tarjeta-credito-bc358": {
+      "hosting": {
+        "Tarjeta": [
+          "tarjeta-credito-bc358"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "tarjeta-credito-bc358"
+  }
+}
